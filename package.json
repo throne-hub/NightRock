@@ -1,0 +1,23 @@
+{
+  "name": "bitmap",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "2983u2",
+  "license": "ISC",
+  "description": "Selfbot with modular like system",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.4.6"
+  }
+}
